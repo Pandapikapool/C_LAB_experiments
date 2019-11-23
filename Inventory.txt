@@ -1,0 +1,6 @@
+Asset Number : 45
+Asset Name : sun
+Asset Price : 4000.00
+Asset Number : 32
+Asset Name : fun
+Asset Price : 300.00
